@@ -1,0 +1,27 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    "android": true,
+    "ios": true,
+    "linux": true,
+    "macos": true,
+    "web": true,
+    "windows": true,
+    ".gitignore": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "pubspec.lock": true,
+    "food_ordering_app.iml": true,
+    "auth\\.dart_tool": true,
+    "auth\\.idea": true,
+    "auth\\.gitignore": true,
+    "auth\\analysis_options.yaml": true,
+    "auth\\.metadata": true,
+    "auth\\CHANGELOG.md": true,
+    "auth\\LICENSE": true,
+    "auth\\auth.iml": true,
+    "auth\\pubspec.lock": true
+  }
+}
